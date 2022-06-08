@@ -34,6 +34,13 @@ footer {
     font-size: .8em;
 }
 
+#footer-content {
+  background-color: #f3e5f5;
+  border: 1px solid #ab47bc;
+  height: 32px; /* height + top/bottom paddding + top/bottom border must add up to footer height */
+  padding: 8px;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
