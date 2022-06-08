@@ -33,6 +33,7 @@ footer {
     font-size: .8em;
 }
 
+.greyline {border-bottom: 1px solid #b9b8b8; overflow:hidden;}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
