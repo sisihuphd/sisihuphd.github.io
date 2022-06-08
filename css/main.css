@@ -28,12 +28,12 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
-.greyline {border-bottom: 1px solid #b9b8b8; overflow:hidden;}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
@@ -71,10 +71,4 @@ ul {
 
 .slide a img {
    display: block;
-}
-
-.ofh{overflow: hidden;}
-
-.no-border{
-  border:none;
 }
