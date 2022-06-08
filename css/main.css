@@ -30,7 +30,6 @@ p {
 }
 
 footer {
-    position:absolute;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
@@ -68,7 +67,6 @@ ul {
 #intro{
     float:right;
     width:60%;
-    padding:0
 }
 
 .slide a img {
