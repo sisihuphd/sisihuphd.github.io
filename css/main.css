@@ -65,6 +65,7 @@ ul {
 }
 
 #intro{
+    margin-top: 0px;
     float:right;
     width:60%;
 }
