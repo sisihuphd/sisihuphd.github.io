@@ -49,6 +49,7 @@ ul {
 }
 
 .imgbox {
+    margin:24px;
     display: grid;
     height: 100%;
 }
@@ -65,7 +66,6 @@ ul {
 }
 
 #intro{
-    margin-top: 0px;
     float:right;
     width:60%;
 }
