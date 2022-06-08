@@ -67,7 +67,7 @@ ul {
 #intro{
     float:right;
     width:60%;
-    margin-block-start:0em;
+    margin-block:0px 24px;
 }
 
 .slide a img {
