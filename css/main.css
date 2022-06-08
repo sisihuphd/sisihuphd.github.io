@@ -30,15 +30,9 @@ p {
 }
 
 footer {
+    position:absolute;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-}
-
-#footer-content {
-  background-color: #f3e5f5;
-  border: 1px solid #ab47bc;
-  height: 32px; /* height + top/bottom paddding + top/bottom border must add up to footer height */
-  padding: 8px;
 }
 
 ul.posts { 
