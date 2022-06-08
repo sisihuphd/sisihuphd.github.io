@@ -72,3 +72,11 @@ ul {
 .slide a img {
    display: block;
 }
+
+.content {
+    position: relative;
+    width:70%;
+    min-height: 100%;
+    float:left;
+    padding-bottom:40px
+}
