@@ -67,3 +67,7 @@ ul {
     float:right;
     width:60%;
 }
+
+.slide a img {
+   display: block;
+}
