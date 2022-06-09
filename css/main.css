@@ -47,6 +47,7 @@ ul.posts li {
 ul {
     font-size: 1.2em;
     line-height: 1.5em;
+    padding-inline-start: 0px
 }
 
 .imgbox {
