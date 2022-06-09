@@ -64,7 +64,7 @@ ul li, ul li {
 
 #profile-photo{
     float:left;
-    width:40%;
+    width:38%;
     margin-top:24px;
 }
 
@@ -76,5 +76,5 @@ ul li, ul li {
 
 #intro{
     float:right;
-    width:60%;
+    width:72%;
 }
