@@ -44,6 +44,7 @@ ul.posts li {
 }
 
 ul {
+    display: inline-block;
     font-size: 1.2em;
     line-height: 1.5em;
 }
@@ -73,10 +74,3 @@ ul {
    display: block;
 }
 
-.content {
-    position: relative;
-    width:70%;
-    min-height: 100%;
-    float:left;
-    padding-bottom:40px
-}
