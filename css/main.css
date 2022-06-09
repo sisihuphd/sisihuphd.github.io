@@ -57,7 +57,7 @@ ul {
 #profile-photo{
     float:left;
     width:40%;
-    padding-top=24px;
+    margin-top:24px;
 }
 
 .center-fit {
