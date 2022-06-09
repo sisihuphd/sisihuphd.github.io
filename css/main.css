@@ -51,6 +51,12 @@ ul {
     marging:0px;
 }
 
+ul li, ul li {
+    display: inline;
+    margin: 0px;
+    padding:0px;
+}
+
 .imgbox {
     display: grid;
     height: 100%;
