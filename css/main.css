@@ -31,7 +31,7 @@ p {
 }
 
 footer {
-    border-top: 0px;
+    border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
@@ -56,7 +56,7 @@ ul {
 
 #profile-photo{
     float:left;
-    width:38%;
+    width:40%;
     margin-top:24px;
 }
 
@@ -68,5 +68,5 @@ ul {
 
 #intro{
     float:right;
-    width:62%;
+    width:60%;
 }
