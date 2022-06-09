@@ -51,12 +51,6 @@ ul {
     margin:auto;
 }
 
-ul li, ul li {
-    display: inline;
-    margin: 0px;
-    padding:0px;
-}
-
 .imgbox {
     display: grid;
     height: 100%;
@@ -76,5 +70,5 @@ ul li, ul li {
 
 #intro{
     float:right;
-    width:72%;
+    width:62%;
 }
