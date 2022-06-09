@@ -23,6 +23,7 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -44,7 +45,7 @@ ul.posts li {
 }
 
 ul {
-    display: inline-block;
+    margin: auto;
     font-size: 1.2em;
     line-height: 1.5em;
 }
@@ -69,8 +70,3 @@ ul {
     float:right;
     width:60%;
 }
-
-.slide a img {
-   display: block;
-}
-
