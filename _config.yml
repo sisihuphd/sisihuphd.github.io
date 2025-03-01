@@ -1,6 +1,7 @@
 name: Sisi Hu
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+background_color: "#FFFFFF"
 
 theme: jekyll-theme-slate
 # Google Analytics
